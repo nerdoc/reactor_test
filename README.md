@@ -1,6 +1,6 @@
 # reactor_test
 
-This repo is only a demo/testing repo for [Reactor](https://github.com/edelvalle/reactor).
+This repo is only a demo/testing repo for [Reactor](https://github.com/edelvalle/reactor), see [Bug](https://github.com/edelvalle/reactor/issues/38).
 
 ## Install
 
